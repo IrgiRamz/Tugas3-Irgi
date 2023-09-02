@@ -1,0 +1,8 @@
+@font-face {
+    font-family: myPoppins;
+    src: url('poppins.ttf');
+  }
+
+*{ /* universal untuk seluruh selector */
+  font-family: myPoppins;
+}

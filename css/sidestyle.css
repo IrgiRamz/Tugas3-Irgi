@@ -1,0 +1,33 @@
+body{
+    background-color: #836096;
+    color: white;
+}
+
+li{
+    padding: 8px 0;
+}
+
+li a {
+    color: white; 
+    transition: color 0.3s; 
+}
+
+li a:hover {
+    color: yellow; 
+}
+
+legend{
+    font-size: 19px;
+}
+
+fieldset{
+    margin-top: 13px;
+}
+
+img{
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
